@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://uspdigital.usp.br/wsfoto/foto?wsdl" uri="wsdl/uspdigital.usp.br/wsfoto/foto.wsdl"/>
+    <system systemId="http://uspdigital.usp.br:80/wsfoto/foto?xsd=1" uri="wsdl/uspdigital.usp.br/wsfoto/foto.xsd_1.xsd"/>
+    <system systemId="file:/C:/Users/schneider/Documents/Projetos/fotows/foto.wsdl" uri="wsdl/foto.wsdl"/>
+    <system systemId="https://uspdigital.usp.br:443/wsfoto/foto?xsd=1" uri="wsdl/uspdigital.usp.br_443/wsfoto/foto.xsd_1.xsd"/>
+</catalog>
